@@ -11,7 +11,7 @@
     "build":{
         "require_slsa_builder":"github_generator_level_3",
         "repository":{
-            "uri":"github.com/lmrs2/bh-aisec-project1"
+            "uri":"github.com/PAVAN-IS201401018/bh-aisec-project1"
         }
     }
 }
